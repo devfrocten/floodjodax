@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+   
+}
+nav a{
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 0 5px 5px 0;
+    color: white;
+}
+
+nav a:hover {
+    left: 0;
+}
+
+.projects {
+    top: 140px;
+    background-color: #f44336 ;
+}
+
+
+details {
+    border: 1px solid black;
+        width: fit-content;
+}
+
+nav a {
+    text-decoration: none;
+}
+main {
+    margin: 5px 30px 5px 30px;
+}
+h2 {
+    border-bottom: 2px solid black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+footer p {
+    text-align: center;
+}
+footer {
+    background-color: black;
+    color: white;
+}
